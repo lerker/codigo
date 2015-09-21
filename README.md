@@ -6,6 +6,7 @@ a pythonic interface, and moreover, all methods call blazing fast C code. The
 code can also run transparently on GPU thanks to
 Theano (http://deeplearning.net/software/theano/).
 
+```
 Here's an example usage
 
     $ python
@@ -26,7 +27,7 @@ Here's an example usage
            [1, 0, 1],
            [0, 0, 1],
            [1, 0, 1]])
-
+```
 # Authors and Contributors
 Ponzoni Cuadra, Nelson E. (@lerker)
 
