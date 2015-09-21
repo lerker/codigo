@@ -6,9 +6,8 @@ a pythonic interface, and moreover, all methods call blazing fast C code. The
 code can also run transparently on GPU thanks to
 Theano (http://deeplearning.net/software/theano/).
 
-```
 Here's an example usage
-
+```
     $ python
     >>> import numpy, rbm
     >>> X = numpy.array([[0, 1, 0], \

@@ -9,18 +9,18 @@ def read(fname):
     return open(os.path.join(os.path.dirname(__file__), fname)).read()
 
 setup(
-    name = "rbm.py",
+    name = "cupydle",
     version = "1.0",
-    author = "Yann N. Dauphin",
-    author_email = "dhaemon@gmail.com",
-    description = ("Pain-free Restricted Boltzmann Machines."),
+    author = "Ponzoni Cuadra, Nelson E.",
+    author_email = "npcuadra@gmail.com",
+    description = ("Restricted Boltzmann Machines and Deep Belief Networks."),
     license = "BSD",
-    keywords = "machine learning restricted boltzmann machine",
-    url = "http://ynd.github.com/rbm.py/",
+    keywords = "machine learning restricted boltzmann machine deep belief networks",
+    url = "",
     packages=['rbm'],
     long_description=read('README'),
     classifiers=[
-        "Development Status :: 5 - Production/Stable",
+        "Development Status :: 1 - Production/Stable",
         "Scientific/Engineering :: Artificial Intelligence",
         "License :: OSI Approved :: BSD License",
     ],
