@@ -1,4 +1,4 @@
-Introduction
+# Introduction
 ============
 _cupydle_ is the fastest and easiest way to use Restricted Boltzmann
 Machines (RBMs). RBMs are a class of probabilistic models that can discover
@@ -28,10 +28,10 @@ Here's an example usage
            [0, 0, 1],
            [1, 0, 1]])
 
-Authors and Contributors
+# Authors and Contributors
 ========================
 Ponzoni Cuadra, Nelson E. (@lerker)
 
-Support or Contact
+# Support or Contact
 ==================
 Having trouble? Mail me npcuadra@gmail.com
