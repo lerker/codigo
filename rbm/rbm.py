@@ -10,8 +10,8 @@ a pythonic interface, and moreover, all methods call blazing fast C code. The
 code can also run transparently on GPU thanks to
 Theano (http://deeplearning.net/software/theano/).
 
-Created by Yann N. Dauphin on 2012-01-17.
-Copyright (c) 2012 Yann N. Dauphin. All rights reserved.
+Created by Ponzoni Cuadra, Nelson E. on 2015-09-21.
+Copyright (c) 2015 Ponzoni Cuadra, Nelson E. All rights reserved.
 """
 
 import sys

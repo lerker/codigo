@@ -1,8 +1,8 @@
 Introduction
 ============
-_rbm.py_ is the fastest and easiest way to use Restricted Boltzmann
+_cupydle_ is the fastest and easiest way to use Restricted Boltzmann
 Machines (RBMs). RBMs are a class of probabilistic models that can discover
-hidden patterns in your data. _rbm.py_ provides all the necessary methods with
+hidden patterns in your data. _cupydle_ provides all the necessary methods with
 a pythonic interface, and moreover, all methods call blazing fast C code. The
 code can also run transparently on GPU thanks to
 Theano (http://deeplearning.net/software/theano/).
@@ -30,8 +30,8 @@ Here's an example usage
 
 Authors and Contributors
 ========================
-Yann N. Dauphin (@ynd)
+Ponzoni Cuadra, Nelson E. (@lerker)
 
 Support or Contact
 ==================
-Having trouble? Check out https://github.com/ynd/rbm.py/issues.
+Having trouble? Mail me npcuadra@gmail.com
